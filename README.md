@@ -14,10 +14,10 @@ A Bash installer for a branded GuideCloud login banner on Ubuntu/Debian systems 
 
 ## Install from GitHub
 
-After you upload this repository to GitHub, replace `YOUR_USERNAME` with your GitHub username:
+After you upload this repository to GitHub, replace `b1yt83` with your GitHub username:
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/guidecloud-motd/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/b1yt83/b1yt-motd/refs/heads/main/install.sh))
 ```
 
 Or clone and inspect it before running:
