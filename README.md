@@ -23,7 +23,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/b1yt83/b1yt-motd/refs/heads/
 Or clone and inspect it before running:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/guidecloud-motd.git
+git clone https://github.com/b1yt83/b1yt-motd.git
 cd guidecloud-motd
 less install.sh
 sudo bash install.sh
